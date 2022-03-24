@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-hammad-khan
+- 👋 Hi, I’m Muhammad Hammad Khan
 - 👀 I’m interested in Information Retreival, Search Relevance and RecSys
 - 💞️ I’m looking to collaborate on Search and RecSys
 - 📫 How to reach me hammad-khan@cookpad.com
